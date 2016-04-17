@@ -1,7 +1,7 @@
-## README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+
+# financial-overview
+Simple Rails5 application allowing transactions in banking-exports to be categorised based on rules. To get a quick overview of where your expenses go to.
 
 Things you may want to cover:
 
